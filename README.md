@@ -16,3 +16,5 @@ The VotingSystem Solidity smart contract enables a straightforward voting proces
 - Voting Functions: Two functions (voteForOptionA and voteForOptionB) allow users to cast their votes for their preferred option.
 - Error Handling: The contract includes error handling to prevent duplicate votes from the same address.
 
+
+3. Funds System 
